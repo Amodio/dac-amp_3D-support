@@ -1,5 +1,5 @@
 # dac-amp_3D-support
-This repo contains a [3D model](https://github.com/Amodio/dac-amp_3D-support/releases/download/v1/snd_support.stl) with its [OpenSCAD script](https://github.com/Amodio/dac-amp_3D-support/blob/main/snd_support.scad), for stacking a FiiO K11 (R2R) with a Douk Audio A5 on top.
+This repo contains a [3D model](https://github.com/Amodio/dac-amp_3D-support/releases/download/v1/snd_support.stl) with its [OpenSCAD script](https://github.com/Amodio/dac-amp_3D-support/blob/main/snd_support.scad), for stacking a Douk Audio A5 on top of a FiiO K11 (R2R).
 
 **You can stack the two devices without this support**, but it provides some space/air to breath in between (and underneath).
 
