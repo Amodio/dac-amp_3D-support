@@ -132,6 +132,7 @@ module top_support() {
         }
 
         // Cutouts for mounting pads (4 locations relative to A5 device edges that I have measured)
+        // You can move the non-slip pads of the A5: I was a bit surprised at first as they are not symetrically placed for me :)
         pad_positions = [
             [x_offset + 15, y_offset + top_device_width - 15],
             [x_offset + top_device_length - 17, y_offset + top_device_width - 14],
