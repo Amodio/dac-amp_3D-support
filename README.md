@@ -20,6 +20,6 @@ If you do not have a 3D printer (my Ender 3 v2 was 200 €), online services (PC
 
 It takes ~8 hours and 150 grams of material to print (with a raft support in Cura), that's about 2,5 €; [PETG](https://www.amazon.fr/dp/B0CSFW9XTN) is recommanded (but PLA works aswell).
 
-Finally, add ~3 € for [10mm non-slip pads](https://fr.aliexpress.com/item/1005008617276107.html).
+Finally, add [10mm non-slip pads](https://fr.aliexpress.com/item/1005008617276107.html) for ~3 €.
 
 ![3D model preview](preview.png)
