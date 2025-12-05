@@ -6,12 +6,12 @@ This repo contains a [3D model](https://github.com/Amodio/dac-amp_3D-support/rel
 
 ## Audio setup
 This is a good audio system for a contained budget:
-  - [Douk Audio A5](https://fr.aliexpress.com/item/1005008340455661.html) 65,49 €
-  - [RCA pair](https://fr.aliexpress.com/item/1005006382579654.html) 1,82 €
   - [FiiO K11 R2R](https://fr.aliexpress.com/item/1005007640762374.html) 129,75 €
-  - [Micca MB42X G2 speakers](https://www.amazon.fr/dp/B0CGBKWBGM) 114,99 €
+  - [RCA pair](https://fr.aliexpress.com/item/1005006382579654.html) 1,82 €
+  - [Douk Audio A5](https://fr.aliexpress.com/item/1005008340455661.html) 65,49 €
   - [Banana cables 2m](https://fr.aliexpress.com/item/1005001413726456.html) 9,59 €
   - [Banana cables 1m](https://fr.aliexpress.com/item/1005006780979882.html) 6,79 €
+  - [Micca MB42X G2 speakers](https://www.amazon.fr/dp/B0CGBKWBGM) 114,99 €
 
 Total: __328,43 €__
 
